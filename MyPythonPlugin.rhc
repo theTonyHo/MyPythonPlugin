@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<RhinoScriptCompilerProject>
+  <Plugin>
+    <PluginName>MyPythonPlugin</PluginName>
+    <PluginFolder>C:\Users\thetonyho\AR-MA\MyPythonPlugin\build\</PluginFolder>
+    <AuthorName>Tony Ho</AuthorName>
+    <AuthorEmail>thetonyho@gmail.com</AuthorEmail>
+    <AuthorPhone />
+    <AuthorAddress />
+    <AuthorCountry>Australia</AuthorCountry>
+    <AuthorWebsite>http://www.thetonyho.net</AuthorWebsite>
+    <UpdateURL>https://raw.githubusercontent.com/theTonyHo/MyPythonPlugin/master/build/MyPythonPlugin.rhp</UpdateURL>
+    <CopyrightMessage>Welcome this is a sample message</CopyrightMessage>
+    <RhinoCommonOverride />
+  </Plugin>
+  <Commands>
+    <!--Compiled Script: HellowWorld_cmd-->
+    <Command>
+      <Name>HellowWorld_cmd</Name>
+      <Path>C:\Users\thetonyho\AR-MA\MyPythonPlugin\MyPythonPlugin {0f8ce199-28de-45df-a096-bf1df46bf169}\dev\HellowWorld_cmd.py</Path>
+      <Type>Normal</Type>
+    </Command>
+  </Commands>
+  <Menu />
+</RhinoScriptCompilerProject>
